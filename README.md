@@ -11,7 +11,7 @@ A simple flight booking system built using Java 21 and Spring Boot with a micros
 | Ticket Service   | 5002 | Book tickets and manage passenger info |
 
 ## 📦 Tech Stack
-- Java 17
+- Java 21
 - Spring Boot 3.4.2
 - Lombok
 - Maven
