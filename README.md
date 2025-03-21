@@ -19,6 +19,6 @@ A simple flight booking system built using Java 21 and Spring Boot with a micros
 ## 🚀 How to Run
 
 ```bash
-cd microservice_flights       && ./mvnw spring-boot:run
-cd microservice_schedules     && ./mvnw spring-boot:run
-cd microservice_tickets       && ./mvnw spring-boot:run
+cd flights       && ./mvnw spring-boot:run
+cd schedules     && ./mvnw spring-boot:run
+cd tickets       && ./mvnw spring-boot:run
