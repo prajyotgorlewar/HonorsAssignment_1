@@ -57,6 +57,9 @@
 	</dependencies>
 
 	<build>
+		<finalName>
+			flights_jar
+		</finalName>	
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
