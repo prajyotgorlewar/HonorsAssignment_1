@@ -57,6 +57,9 @@
 	</dependencies>
 
 	<build>
+		<finalName>
+			schedules_jar
+		</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
